@@ -9,7 +9,6 @@ d = {
     "email" : "shashank@ineuron.ai",
     "surname" : "kumar"
 }
-dsghsgd = gfshsgsgd
 db1 = client['mongotest']
 coll = db1['test']
 coll.insert_one(d)
